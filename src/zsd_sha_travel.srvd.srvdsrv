@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD travel'
+define service ZSD_sha_travel {
+  expose ZC_travel;
+}
